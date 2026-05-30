@@ -30,25 +30,3 @@ Requisitos
 Python 3.7 ou superior
 
 Pygame
-
-Instalação e execução
-
-Clone o repositório:
-
-bash
-git clone https://github.com/seu-usuario/jogo-da-cobrinha.git
-cd jogo-da-cobrinha
-Crie um ambiente virtual (opcional, mas recomendado):
-
-bash
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-Instale o Pygame:
-
-bash
-pip install pygame
-Execute o jogo:
-
-bash
-python snake.py
